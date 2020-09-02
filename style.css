@@ -1,9 +1,17 @@
 /*
 Theme Name:     SMP Divi Child
-Theme URI:      
+Theme URI:
 Description:    Divi child theme.
 Author:         Michael Wender
 Author URI:     https://mwender.com
 Template:       Divi
 Version:        0.1.0
 */
+
+#smp-left-topbar{
+  float: left;
+}
+#smp-left-topbar a{
+  color: #fff !important;
+  font-weight: bold;
+}
