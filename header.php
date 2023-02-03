@@ -77,8 +77,8 @@
 
       <?php endif; // true === $et_contact_info_defined ?>
 
-        <div id="smp-left-topbar">
-          <a href="https://the-sewing-machine-project.myshopify.com/" target="_blank">Visit our online store on Shopify!</a>
+        <div id="smp-left-topbar" style="color: #fff;">
+          <a href="https://the-sewing-machine-project.myshopify.com/" target="_blank">Visit our online store on Shopify!</a> &bull; <a href="https://www.youtube.com/channel/UC8w02PXjjo0VdKFgfNqperw" target="_blank">We're on YouTube!</a>
         </div>
 
         <div id="et-secondary-menu">
